@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mongodb/laravel-mongodb": "^4.3"
+    }
+    
+}
